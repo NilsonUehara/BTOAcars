@@ -1,0 +1,11 @@
+#Configurações
+#Mon Jun 14 11:22:26 BRT 2010
+posicao=position_update.php
+matricula=BTO5111
+log=1
+simulador=0
+proxy=N
+pirep=receive_btoacars.php
+proxy.host=
+proxy.port=
+url.acars=http\://www.aeroboteco.com.br/btoacars/

@@ -1,0 +1,3 @@
+Obrigatoriedade da versão mais nova do BTOAcars. (Pireps de versões anteriores e/ou FSAcars não serão mais aceitos)
+Ao voar pernas de tours já enviadas, as horas serão contabilizadas mas o pirep não será enviado para o tour.
+Revisão da rotina de contabilidade de horas voadas.

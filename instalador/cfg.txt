@@ -1,0 +1,11 @@
+#Informe sua matricula no Aeroboteco (Ex: matricula=BTO5102)
+matricula=BTO
+
+posicao=position_update.php
+log=0
+simulador=0
+proxy=N
+pirep=receive_btoacars.php
+proxy.host=
+proxy.port=
+url.acars=http\://www.aeroboteco.com.br/btoacars/

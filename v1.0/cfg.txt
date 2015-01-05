@@ -1,0 +1,7 @@
+#Informe sua matricula no Aeroboteco (Ex: matricula=BTO5102)
+matricula = BTO
+
+#Dados do site
+url.acars = http://www.aeroboteco.com.br/va/fsacars/
+posicao   = position_update.php
+pirep     = receive_pirep.php

@@ -1,0 +1,258 @@
+<list>
+<br.com.aeroboteco.model.Arnv><icao>A124</icao><modelo>Antonov AN-124 Ruslan</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A140</icao><modelo>Antonov AN-140</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A306</icao><modelo>Airbus Industrie A300-600</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A306</icao><modelo>Airbus Industrie A600-600</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A30B</icao><modelo>Airbus Industrie A300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A30B</icao><modelo>Airbus Industrie A300B2/B4/C4</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310 all pax models</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310-200 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310-200 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A310</icao><modelo>Airbus A310-300 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A318</icao><modelo>Airbus A318</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A319</icao><modelo>Airbus A319</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A320</icao><modelo>Airbus A320-100/200</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A321</icao><modelo>Airbus A321-100/200</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A330</icao><modelo>Airbus A330 all models</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A330</icao><modelo>Airbus A330-200</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A330</icao><modelo>Airbus A330-300</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A340</icao><modelo>Airbus A340 all models</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A340</icao><modelo>Airbus A340-200</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A340</icao><modelo>Airbus A340-300</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A340</icao><modelo>Airbus A340-500</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A340</icao><modelo>Airbus A340-600</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A3ST</icao><modelo>Airbus Industrie A300-600ST Beluga Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>A748</icao><modelo>Hawker Siddeley HS.748</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AC68</icao><modelo>Gulfstream/Rockwell (Aero) Commander</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AC90</icao><modelo>Gulfstream/Rockwell (Aero) Turbo Commander</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN12</icao><modelo>Antonov AN-12</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN24</icao><modelo>Antonov AN-24</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN24</icao><modelo>Xian Yunshuji Y7</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN26</icao><modelo>Antonov AN-26</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN28</icao><modelo>Antonov AN-28 / PZL Miele M-28 Skytruck</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN30</icao><modelo>Antonov AN-30</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN32</icao><modelo>Antonov AN-32</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AN72</icao><modelo>Antonov AN-72 / AN-74</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AT43</icao><modelo>Aerospatiale/Alenia ATR 42-300 / 320</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AT45</icao><modelo>Aerospatiale/Alenia ATR 42-500</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>AT72</icao><modelo>Aerospatiale/Alenia ATR 72</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>ATP</icao><modelo>British Aerospace ATP</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B105</icao><modelo>Eurocopter (MBB) Bo.105</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B190</icao><modelo>Beechcraft 1900/1900C/1900D</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B190</icao><modelo>Beechcraft 1900D</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B190</icao><modelo>Beechcfrat 1900/1900C</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B461</icao><modelo>BAe 146-100 Pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B461</icao><modelo>BAe 146 Freighter (-100QT QC)</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B462</icao><modelo>BAe 146-200 Pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B462</icao><modelo>BAe 146 Freighter (-200QT QC)</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B463</icao><modelo>BAe 146-300 Pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B463</icao><modelo>BAe 146 Freighter (-200QT QC)</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B703</icao><modelo>Boeing 707-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B703</icao><modelo>Boeing 707 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B703</icao><modelo>Boeing 707 Combi</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B712</icao><modelo>Boeing 717</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B720</icao><modelo>Boeing 720B pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B721</icao><modelo>Boeing 727-100 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B721</icao><modelo>Boeing 727-100 Mixed Configuration</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B721</icao><modelo>Boeing 727-100 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B722</icao><modelo>Boeing 727-200 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B722</icao><modelo>Boeing 727-200 Mixed Configuration</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B722</icao><modelo>Boeing 727-200 Advanced pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B722</icao><modelo>Boeing 727-200 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B731</icao><modelo>Boeing 737-100 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B732</icao><modelo>Boeing 737-200 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B732</icao><modelo>Boeing 737-200 Combi</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B732</icao><modelo>Boeing 737-200 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B733</icao><modelo>Boeing 737-300 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B733</icao><modelo>Boeing 737-300 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B734</icao><modelo>Boeing 737-400 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B734</icao><modelo>Boeing 737-500 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B736</icao><modelo>Boeing 737-600 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B737</icao><modelo>Boeing 737-700 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B737</icao><modelo>Boeing 737-700 (winglets) pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B738</icao><modelo>Boeing 737-800 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B738</icao><modelo>Boeing 737-800 (winglets) pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B739</icao><modelo>Boeing 737-900 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B741</icao><modelo>Boeing 747-100 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B741</icao><modelo>Boeing 747-100 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B742</icao><modelo>Boeing 747-200 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B742</icao><modelo>Boeing 747-200 Combi</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B742</icao><modelo>Boeing 747-200 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B743</icao><modelo>Boeing 747-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B743</icao><modelo>Boeing 747-300 Combi</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B743</icao><modelo>Boeing 747-300 / 747-200 SUD Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B744</icao><modelo>Boeing 747-400 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B744</icao><modelo>Boeing 747-400 Combi</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B744</icao><modelo>Boeing 747-400 (Domestic) pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B744</icao><modelo>Boeing 747-400 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B74R</icao><modelo>Boeing 747SR pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B74R</icao><modelo>Boeing 747SR Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B752</icao><modelo>Boeing 757-200 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B752</icao><modelo>Boeing 757 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B752</icao><modelo>Boeing 757 Mixed Configuration</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B753</icao><modelo>Boeing 757-300 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B762</icao><modelo>Boeing 767-200 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B762</icao><modelo>Boeing 767-200 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B763</icao><modelo>Boeing 767-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B763</icao><modelo>Boeing 767-300 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B764</icao><modelo>Boeing 767-400 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B772</icao><modelo>Boeing 777-200 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>B773</icao><modelo>Boeing 777-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BA11</icao><modelo>British Aerospace (BAC) One Eleven / RomBAC One Eleven</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BA11</icao><modelo>British Aerospace (BAC) One Eleven 200</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BA11</icao><modelo>British Aerospace (BAC) One Eleven 300</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BA11</icao><modelo>British Aerospace (BAC) One Eleven 400/475</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BA11</icao><modelo>British Aerospace (BAC) One Eleven 500 / RomBAC One Eleven</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BELF</icao><modelo>Shorts SC-5 Belfast</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>BN2P</icao><modelo>Pilatus Britten-Norman BN-2A/B Islander</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>C130</icao><modelo>Lockheed L-182 / 282 / 382 (L-100) Hercules</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>C212</icao><modelo>CASA / IPTN 212 Aviocar</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>C46</icao><modelo>Curtiss C-46 Commando</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CL44</icao><modelo>Canadair CL-44</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CL60</icao><modelo>Canadair Challenger</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CN35</icao><modelo>CASA / IPTN CN-235</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CONC</icao><modelo>Aerospatiale/BAC Concorde</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CONI</icao><modelo>Lockheed L-1049 Super Constellation</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>COUC</icao><modelo>Helio H-250 Courier / H-295 / 385 Super Courier</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CRJ1</icao><modelo>Canadair Regional Jet 100</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CRJ2</icao><modelo>Canadair Regional Jet 200</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CRJ7</icao><modelo>Canadair Regional Jet 700</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CRJ9</icao><modelo>Canadair Regional Jet 900</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CVLP</icao><modelo>Convair CV-440 Metropolitan pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CVLP</icao><modelo>Convair CV-240 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CVLP</icao><modelo>Convair CV-440 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CVLT</icao><modelo>Convair CV-580 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>CVLT</icao><modelo>Convair CV-580 / 600 / 640 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>D228</icao><modelo>Fairchild Dornier Do.228</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>D328</icao><modelo>Fairchild Dornier Do.328</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10-10/15 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10-30/40 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10 all Freighters</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10 all Combi models</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10-10 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC10</icao><modelo>Douglas DC-10-30 / 40 Freighters</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC3</icao><modelo>Douglas DC-3 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC3</icao><modelo>Douglas DC-3 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC6</icao><modelo>Douglas DC-6A/B/C Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC6</icao><modelo>Douglas DC6A/B pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC85</icao><modelo>Douglas DC-8-50 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC86</icao><modelo>Douglas DC-8-62 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC87</icao><modelo>Douglas DC-8-72 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC87</icao><modelo>Douglas DC-8-71 / 72 / 73 Freighters</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC9</icao><modelo>Douglas DC-9 all pax models</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC91</icao><modelo>Douglas DC-9-10 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC91</icao><modelo>Douglas DC-9-10 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC92</icao><modelo>Douglas DC-9-20 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC93</icao><modelo>Douglas DC-9-30 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC93</icao><modelo>Douglas DC-9-30 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC94</icao><modelo>Douglas DC-9-40 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC94</icao><modelo>Douglas DC-9-40 Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DC95</icao><modelo>Douglas DC-9-50 pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DH2T</icao><modelo>De Havilland Canada DHC-2 Turbo-Beaver</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DH8A</icao><modelo>De Havilland Canada DHC-8-100 Dash 8 / 8Q</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DH8B</icao><modelo>De Havilland Canada DHC-8-200 Dash 8 / 8Q</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DH8C</icao><modelo>De Havilland Canada DHC-8-300 Dash 8 / 8Q</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DH8D</icao><modelo>De Havilland Canada DHC-8-400 Dash 8Q</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC2</icao><modelo>De Havilland Canada DHC-2 Beaver</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC3</icao><modelo>De Havilland Canada DHC-3 Turbo Otter</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC3</icao><modelo>De Havilland Canada DHC-3 Otter / Turbo Otter</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC3</icao><modelo>De Havilland Canada DHC-3 Otter</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC4</icao><modelo>De Havilland Canada DHC-4 Caribou</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC6</icao><modelo>De Havilland Canada DHC-6 Twin Otter</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DHC7</icao><modelo>De Havilland Canada DHC-7 Dash 7</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>DOVE</icao><modelo>De Havilland DH.104 Dove</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E110</icao><modelo>Embraer EMB.110 Bandeirnate</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E120</icao><modelo>Embraer EMB.120 Brasilia</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E135</icao><modelo>Embraer RJ135</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E145</icao><modelo>Embraer RJ145 Amazon</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E170</icao><modelo>Embraer 170</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>E190</icao><modelo>Embraer 190</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>EXPL</icao><modelo>MD Helicopters MD900 Explorer</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F100</icao><modelo>Fokker 100</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F27</icao><modelo>Fokker F.27 Friendship / Fairchild F.27</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F27</icao><modelo>Fairchild FH.227</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F28</icao><modelo>Fokker F.28 Fellowship 1000</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F28</icao><modelo>Fokker F.28 Fellowship 2000</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F28</icao><modelo>Fokker F.28 Fellowship 3000</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F28</icao><modelo>Fokker F.28 Fellowship 4000</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F28</icao><modelo>Fokker F.28 Fellowship</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F50</icao><modelo>Fokker 50</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>F70</icao><modelo>Fokker 70</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>G159</icao><modelo>Gulfstream Aerospace G-159 Gulfstream I</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>G21</icao><modelo>Grumman G.21 Goose</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>G73T</icao><modelo>Grumman G.73 Turbo Mallard</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>GLEX</icao><modelo>Canadair Global Express</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>HERN</icao><modelo>De Havilland DH.114 Heron</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>I114</icao><modelo>Ilyushin IL114</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL18</icao><modelo>Ilyushin IL18</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL62</icao><modelo>Ilyushin IL62</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL76</icao><modelo>Ilyushin IL76</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL86</icao><modelo>Ilyushin IL86</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96-300 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96 Freighters</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96M pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96-300 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96T Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>IL96</icao><modelo>Ilyushin IL96 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>J328</icao><modelo>Fairchild Dornier 328JET</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>JS31</icao><modelo>British Aerospace Jetstream 31</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>JS32</icao><modelo>British Aerospace Jetstream 32</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>JS41</icao><modelo>British Aerospace Jetstream 41</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>JU52</icao><modelo>Junkers Ju52/3M</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L101</icao><modelo>Lockheed L-1011 Tristar pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L101</icao><modelo>Lockheed L-1011 1 / 50 / 100 / 150 / 200 / 250 Tristar pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L101</icao><modelo>Lockheed L-1011 500 Tristar pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L101</icao><modelo>Lockheed L-1011 Tristar Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L188</icao><modelo>Lockheed L-188 Electra pax</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L188</icao><modelo>Lockheed L-188 Electra Freighter</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L188</icao><modelo>Lockheed L-188 Electra Mixed Configuration</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>L410</icao><modelo>LET 410</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>LOAD</icao><modelo>Ayres LM-200 Loadmaster</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD11</icao><modelo>McDonnell Douglas MD11 pax</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD11</icao><modelo>McDonnell Douglas MD11 Freighter</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD11</icao><modelo>McDonnell Douglas MD11 Mixed Configuration</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD80</icao><modelo>McDonnell Douglas MD80</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD81</icao><modelo>McDonnell Douglas MD81</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD82</icao><modelo>McDonnell Douglas MD82</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD83</icao><modelo>McDonnell Douglas MD83</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD87</icao><modelo>McDonnell Douglas MD87</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD88</icao><modelo>McDonnell Douglas MD88</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MD90</icao><modelo>McDonnell Douglas MD90</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MI8</icao><modelo>MIL Mi-8 / Mi-17 / Mi-171 / Mil-172</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>MU2</icao><modelo>Mitsubishi Mu-2</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>N262</icao><modelo>Aerospatiale (Nord) 262</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>N74S</icao><modelo>Boeing 747SP</modelo><categoria>H</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>NOMA</icao><modelo>Government Aircraft Factories N22B / N24A Nomad</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>P68</icao><modelo>Partenavia P.68</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>PC12</icao><modelo>Pilatus PC-12</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>PC6T</icao><modelo>Pilatus PC-6 Turbo Porter</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>RJ1H</icao><modelo>Avro RJ100 Avroliner</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>RJ70</icao><modelo>Avro RJ70 Avroliner</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>RJ85</icao><modelo>Avro RJ85 Avroliner</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>RX1H</icao><modelo>Avro RJX100</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>RX85</icao><modelo>Avro RJX85</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S210</icao><modelo>Aerospatiale (Sud Aviation) Se.210 Caravelle</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S58T</icao><modelo>Sikorsky S-58T</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S601</icao><modelo>Aerospatiale SN.601 Corvette</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S61</icao><modelo>Sikorsky S-61</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S65C</icao><modelo>Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>S76</icao><modelo>Sikorsky S-76</modelo><categoria>n/a</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>SB20</icao><modelo>Saab 2000</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>SC7</icao><modelo>Shorts SC-7 Skyvan</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>SF34</icao><modelo>Saab SF340A/B</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>SH33</icao><modelo>Shorts SD.330</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>SH36</icao><modelo>Shorts SD.360</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>T134</icao><modelo>Tupolev Tu134</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>T154</icao><modelo>Tupolev Tu154</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>T204</icao><modelo>Tupolev Tu-204 / Tu-214</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>TRIS</icao><modelo>Pilatus Britten-Norman BN-2A Mk III Trislander</modelo><categoria>L</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>VISC</icao><modelo>Vickers Viscount</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>WW24</icao><modelo>Israel Aircraft Industries 1124 Westwind</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>Y12</icao><modelo>Harbin Yunshuji Y12</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>YK40</icao><modelo>Yakovlev Yak 40</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>YK42</icao><modelo>Yakovlev Yak 42</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+<br.com.aeroboteco.model.Arnv><icao>YS11</icao><modelo>NAMC YS-11</modelo><categoria>M</categoria></br.com.aeroboteco.model.Arnv>
+</list>

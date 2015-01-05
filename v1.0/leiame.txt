@@ -1,0 +1,88 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+              B T O A c a r s 
+     Sistema de coleta de dados de voo
+  Desenvolvido por Nilson Uehara / BTO5102
+         nilson@aeroboteco.com.br
+       Aeroboteco: Uma nuvem a frente
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Instalação:
+===========
+Copie o arquivo XPUIPC.XPL para o diretório X-Plane\Resources\Plugins
+Execute o arquivo BTOAcars.jar
+
+
+Modo de usar:
+=============
+Antes de abrir o BTOAcars, certifique-se que seu simulador (FS/X-Plane) esteja aberto.
+
+IMPORTANTE! No primeiro uso, configure sua matrícula (BTO) pelo menu OPÇÕES/CONFIGURAÇÕES
+
+Informe seu plano de voo e clique em "Enviar"
+Pronto! Apartir dai, o BTOAcars fará a captura automática dos dados do seu voo até o momento em que você efetuar o pouso e freiar completamente a aeronave.
+Após isso, os botões ENVIAR DEPOIS e ENVIAR serão habilitados.
+Enviar depois: Grava o pirep para envio posterior, através do botão ENVIAR PIREPS GRAVADOS na tela de plano de voo.
+Enviar: Envia os dados do voo ao Aeroboteco
+A qualquer momento após o início do voo, você poderá cancelá-lo através do botão PARAR VOO
+
+
+Importante:
+===========
+Ao enviar seu plano de voo, o sistema fará uma verificação afim de constatar se sua aeronave está realmente posicionada no AD informado, emitindo um aviso caso esteja incorreto (Pouso FORA do destino informado! siga para SBMT). Decole e siga para o destino correto
+
+Após o pouso, o sistema novamente fará a verificação quanto ao AD de destino informado no plano de voo informado. Estando correto, o log é finalizado (Pouso no destino correto! Bem-vindo a SBMT) e você poderá enviar seu log.
+
+
+Sugestões/Críticas:
+===================
+Visite post dedicado ao BTOAcars no fórum 
+http://www.aeroboteco.com.br/forum<...a ser criado quando for distribuida a versão final...> 
+
+Release 1.8b - 28/09/2009
+=========================
+- Ignorar SIMRATE maior que 32X
+- Em caso de erro, não apaga o log a ser enviado.
+- Otimização da rotina de leitura do pv gravado
+- Correção da página do tour - Ref. geográficas
+- Correção da página do tour - Vel. do toque no pouso
+
+
+Release 1.7b - 15/09/2009
+=========================
+- Correção do status enviado ao site (Em descida, Subindo, Em cruzeiro, GS, Distancia, ETE)
+- Inclusão de informações na tela de log (Distâncias, ETE, etc)
+- Diminuição do tempo de envio do status ao site (1 min.)
+- Log da distância percorrida e distância entre dep/arr
+
+
+Release 1.6b - 09/09/2009
+=========================
+- Criptografia do arquivo de logs gravados
+- Abertura em modo offline (simulador não detectado)
+
+
+Release 1.5b - 06/09/2009
+=========================
+- Aumentada a margem de erro na verificação do local de pouso em relação ao AD
+- Em caso de erro no envio do log o programa permanece aberto permitindo a gravação do log (ENVIAR DEPOIS)
+- Tela de configurações (Matrícula, urls, conexão proxy, etc) - Menu Opções -> Configuraçõos
+- Log de erros (erro.txt)
+
+
+Release 1.4b - 05/09/2009
+=========================
+- Inclusão do HDG no log a cada 15min.
+- GS (Ground Speed) no log a cada 15min.
+- Informação do SimRate (Simulation Rate = Taxa de simulação) 1X, 2x, etc
+
+
+Release 1.3b
+=======================
+- Lista de seleção de tours ativos
+- Lista de seleção de perna de tour ativo
+- Menu OPÇÕES/Carregar Tours - Atualiza a lista de Tours
+- Log de Lat/Lon, TAS, Wind (direção e velocidade) a cada 15min.
+- Desconto do tempo em pausa
+- Identificação de ICAO inexistente no banco de dados
+- Correção da TAS (True Air Speed)

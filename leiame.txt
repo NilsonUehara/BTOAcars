@@ -1,0 +1,4 @@
+- Volta a tela inicial após o envio do pirep
+- Indicação das pernas voadas (Pirep enviado/aprovado)
+- Inclusão do botão "Rejeitar Voo"
+- Autocarregamento da lista de tours na primeira execução
